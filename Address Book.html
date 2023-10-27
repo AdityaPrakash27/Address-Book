@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link 
+    href="Address Book.css" 
+    rel="stylesheet">
+    <link href="Address Book.css" rel="stylesheet" type="text/css">
+    <script src="Address Book.js"></script>
+</head>
+<body>
+<div id="navigation">
+    <ul class="nav-list">
+        <li id="js-show-all">Show all Contacts</li>
+        <li id="js-search">Search</li>
+        <li id="js-add-new">Add New Contact</li>
+    </ul>
+</div>
+<div id="search-panel" class="panel">
+    <h1>Search Contacts</h1>
+    <form id="search" action="#">
+        <div id="results">
+          
+      </div>
+        <div>
+            <label>
+                <input type="text" name="search" id="search" placeholder="Enter name of contact" />
+            </label>
+        </div>
+                <input type="submit" value="Submit" />
+    </form>
+</div>
+    <div id="contact-panel" class="panel">
+        <form id="contact" action="#">
+            <h1>Add a new contact</h1>
+            <div>
+                <label>
+                    <input type="text" name="person" id="name" placeholder="Aditya Prakash" />
+                </label>
+                <label>
+                    <input type="text" name="phone" id="name" placeholder="0987654321" />
+                </label>
+                <label>
+                    <input type="text" name="email" id="name" placeholder="abcd@example.com" />
+                </label>
+            </div>
+            <div>
+                <input type="submit" value="Submit" />
+            </div>
+        </form>
+    </div>
+<div id = "show-panel" class="panel">
+  
+</div>
+</body>
+</html>
