@@ -6,30 +6,30 @@ Create an efficient and user-friendly address book application for managing cont
 Address Book![Not Loading](https://github.com/AdityaPrakash27/Address-Book/blob/main/Address%20Book.png)
 
 ## Features
--Show All Contacts
--Search Contacts
+-Show All Contacts<br>
+-Search Contacts<br>
 -Add New Contacts
 
 ## Prerequisites
--HTML
--JAVASCRIPT
+-HTML<br>
+-JAVASCRIPT<br>
 -CSS
 
 ## Getting Started
--Open the Address Book.html file and write.
--Open the Address Book.js file and write.
+-Open the Address Book.html file and write.<br>
+-Open the Address Book.js file and write.<br>
 -Open the Address Book.css file and write.
 
 ## Usage
--CLick Show all Contacts to see all contacts.
--Search
+-CLick Show all Contacts to see all contacts.<br>
+-Search<br>
 -Add New Contact for new contact.
 
 ## Customization
-You can customize the project by:
--Changing colour using CSS.
--Changing font using CSS.
--Changing alignment.
+You can customize the project by:<br>
+-Changing colour using CSS.<br>
+-Changing font using CSS.<br>
+-Changing alignment.<br>
 -Changing Button Style.
 
 ## Contributors
