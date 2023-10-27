@@ -43,5 +43,4 @@ If you encounter any issues or have suggestions for improvements, please [open a
 
 Feel free to contribute and make this project better!
 
----
-<p> font-family: Arial, sans-serif; background-color: #f2f2f2; color: #333; text-align: center;   Connecting people and organizing their world, one contact at a time. Your support and contributions make this address book project come to life!</p>
+**Connecting people and organizing their world, one contact at a time. Your support and contributions make this address book project come to life!**
