@@ -43,4 +43,4 @@ If you encounter any issues or have suggestions for improvements, please [open a
 
 Feel free to contribute and make this project better!
 
-**Connecting people and organizing their world, one contact at a time. Your support and contributions make this address book project come to life!**
+<u>***Connecting people and organizing their world, one contact at a time. Your support and contributions make this address book project come to life!***</u>
